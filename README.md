@@ -90,7 +90,7 @@ miisactivate C:\samplepath oir\fimSA *
 ## Important Links:
 
 #### Xergy/MIMSyncUpgrade
-https://github.com/Xergy/MIMSyncUpgrade/blob/master/Deployment_Overview.md
+https://github.com/Xergy/MIMSyncUpgrade/
 
 #### Set up an identity management server: Windows Server 2016 or 2019
 https://docs.microsoft.com/en-us/microsoft-identity-manager/prepare-server-ws2016
